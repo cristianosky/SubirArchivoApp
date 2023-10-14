@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "250130658777",
+    "firebase_url": "https://subirarchivo-b34c6-default-rtdb.firebaseio.com",
+    "project_id": "subirarchivo-b34c6",
+    "storage_bucket": "subirarchivo-b34c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250130658777:android:dceccce10c2590941fd5c8",
+        "android_client_info": {
+          "package_name": "com.cristianosky.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TYL4p8v1lZxm2KKbbggasHXD1H_hqlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
